@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey 👋, This is ROHAN DHAKAL
+[![Gmail Badge](https://img.shields.io/badge/-dhakalrohan229@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dhakalrohan229@gmail.com)](mailto:dhakalrohan229@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-dhakalrohan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhakalrohan/)](https://www.linkedin.com/in/dhakalrohan/) [![Github Badge](https://img.shields.io/badge/-fearalert-grey?style=flat&logo=github&logoColor=white&link=https://github.com/fearalert/)](https://www.github.com/fearalert/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=www.rohandhakal.com.np/)](www.rohandhakal.com.np/) <p align='left'>Hi I am a Computer Engineer form Nepal</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=fearalert alt=fearalert /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=fearalert&show_icons=true&include_all_commits=true)](https://github.com/fearalert/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fearalert&layout=compact)](https://github.com/fearalert/github-readme-stats)
+
 
 <!--
 **fearalert/fearalert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

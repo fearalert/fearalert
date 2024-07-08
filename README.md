@@ -4,9 +4,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fearalert alt=fearalert /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=fearalert&show_icons=true&include_all_commits=true)](https://github.com/fearalert/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fearalert&layout=compact)](https://github.com/fearalert/github-readme-stats)
-
 
 <!--
 **fearalert/fearalert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

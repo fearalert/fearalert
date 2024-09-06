@@ -1,13 +1,9 @@
 ## Hey 👋, This is ROHAN DHAKAL
-[![Gmail Badge](https://img.shields.io/badge/-dhakalrohan229@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dhakalrohan229@gmail.com)](mailto:dhakalrohan229@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-dhakalrohan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhakalrohan/)](https://www.linkedin.com/in/dhakalrohan/) [![Github Badge](https://img.shields.io/badge/-fearalert-grey?style=flat&logo=github&logoColor=white&link=https://github.com/fearalert/)](https://www.github.com/fearalert/) <p align='left'>Hi I am a Computer Engineer form Nepal</p>
-
-# 💫 About Me:
-🔭 I’m currently working on Nepal Rastra Bank CBDC Research and Development.<br>🤝 I’m looking for roles with Flutter, Javascript, MERN stack.<br>🌱 I’m currently learning Rust Programming Language.<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/dhakalrohan2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhakal.rohan)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/dhakalrohan2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhakalrohan)
+[![Gmail](https://img.shields.io/badge/-dhakalrohan229@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dhakalrohan229@gmail.com)](mailto:dhakalrohan229@gmail.com) [![Github Badge](https://img.shields.io/badge/-fearalert-grey?style=flat&logo=github&logoColor=white&link=https://github.com/fearalert/)](https://www.github.com/fearalert/) <p align='left'>Hi I am a Computer Engineer form Nepal <br>
+🔭 I’m currently working on Nepal Rastra Bank CBDC Research and Development.<br>🤝 I’m looking for roles with Flutter, Javascript, MERN stack.<br>🌱 I’m currently learning Rust Programming Language.<br>⚡</p>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -16,8 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fearalert&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fearalert&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=fearalert&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fearalert alt=fearalert /> </p>

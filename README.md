@@ -1,8 +1,6 @@
 ## Hey 👋, This is ROHAN DHAKAL
 [![Gmail Badge](https://img.shields.io/badge/-dhakalrohan229@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dhakalrohan229@gmail.com)](mailto:dhakalrohan229@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-dhakalrohan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhakalrohan/)](https://www.linkedin.com/in/dhakalrohan/) [![Github Badge](https://img.shields.io/badge/-fearalert-grey?style=flat&logo=github&logoColor=white&link=https://github.com/fearalert/)](https://www.github.com/fearalert/) <p align='left'>Hi I am a Computer Engineer form Nepal</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=fearalert alt=fearalert /> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on Nepal Rastra Bank CBDC Research and Development.<br>🤝 I’m looking for roles with Flutter, Javascript, MERN stack.<br>🌱 I’m currently learning Rust Programming Language.<br>⚡ Fun fact
@@ -21,6 +19,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=fearalert&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=fearalert alt=fearalert /> </p>
 
 <!--
 **fearalert/fearalert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

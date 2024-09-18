@@ -26,10 +26,6 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233472A3.svg?style=for-the-badge&logo=python&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fearalert&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fearalert alt=fearalert /> </p>
 

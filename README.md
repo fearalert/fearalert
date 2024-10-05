@@ -25,7 +25,7 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233472A3.svg?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%233472A3.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%233492A3.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fearalert alt=fearalert /> </p>

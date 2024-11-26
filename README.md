@@ -3,7 +3,9 @@
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/dhakalrohan2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhakalrohan)
 [![Gmail](https://img.shields.io/badge/-dhakalrohan229@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dhakalrohan229@gmail.com)](mailto:dhakalrohan229@gmail.com) [![Github Badge](https://img.shields.io/badge/-fearalert-grey?style=flat&logo=github&logoColor=white&link=https://github.com/fearalert/)](https://www.github.com/fearalert/) <p align='left'>Hi I am a Computer Engineer form Nepal <br>
-🔭 I’m currently working on Nepal Rastra Bank CBDC Research and Development.<br>🤝 I’m looking for roles with Javascript, MERN stack, and Blockchain.<br>🌱 I’m currently learning Rust Programming Language.<br></p>
+🔭 I’m currently working on Nepal Rastra Bank CBDC Research and Development.<br>🤝 I’m looking for roles with Javascript, Reactjs, Nextjs, Nodejs, and Expressjs.<br>
+<!-- 🌱 I’m currently learning Rust Programming Language.<br></p>
+-->
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

@@ -70,11 +70,3 @@ I'm always expanding my horizons. Right now, I'm diving deeper into:
 When I'm not coding, I love blending creativity with technology—whether it's designing eye-catching visuals on Figma or exploring innovative ways to communicate through digital media.
 
 ---
-
-## 🤝 Let's Connect
-
-I'm always open to new challenges, collaborations, and conversations. If you have an idea, a project, or just want to chat, drop me a message!
-
-- [LinkedIn](https://linkedin.com/in/dhakalrohan)
-- [Gmail](mailto:dhakalrohan229@gmail.com)
-- [Medium](https://medium.com/@dhakalrohan225)

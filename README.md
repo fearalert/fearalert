@@ -1,15 +1,25 @@
-## Hey 👋, This is ROHAN DHAKAL
+# Hey 👋, This is **ROHAN DHAKAL**
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rohandhakal2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhakalrohan)
-[![Gmail](https://img.shields.io/badge/-dhakalrohan229@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dhakalrohan229@gmail.com)](mailto:dhakalrohan229@gmail.com) [![Github Badge](https://img.shields.io/badge/-fearalert-grey?style=flat&logo=github&logoColor=white&link=https://github.com/fearalert/)](https://www.github.com/fearalert/) <p align='left'>Hi I am a Computer Engineer form Nepal <br>
-<!--  🔭 I’m currently working on Nepal Rastra Bank CBDC Research and Development. 
--->
-<br>🤝 I’m looking for roles with Javascript, Reactjs, Nextjs, Nodejs, and Expressjs.<br>
-<!-- 🌱 I’m currently learning Rust Programming Language.<br></p>
--->
+I'm a passionate Computer Engineer from Nepal with hands-on experience in CBDC Research & Development at Nepal Rastra Bank. I love turning complex problems into intuitive, scalable solutions—whether that’s building web applications, mobile apps, or experimenting with blockchain technology.
 
-# 💻 Tech Stack:
+---
+
+## 🌐 Socials
+
+Let's connect:
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rohandhakal2)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhakalrohan)  
+[![Gmail](https://img.shields.io/badge/-dhakalrohan229@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dhakalrohan229@gmail.com)  
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@dhakalrohan225)  
+[![Github Badge](https://img.shields.io/badge/-fearalert-grey?style=flat&logo=github&logoColor=white)](https://github.com/fearalert)
+
+---
+
+## 💻 Tech Stack
+
+I enjoy working with a diverse range of technologies:
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -22,7 +32,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -31,20 +40,41 @@
 ![Python](https://img.shields.io/badge/python-%233472A3.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%233492A3.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=fearalert alt=fearalert /> </p>
+---
 
-<!--
-**fearalert/fearalert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Learning
 
-Here are some ideas to get you started:
+I'm always expanding my horizons. Right now, I'm diving deeper into:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Advanced patterns in React & Next.js  
+- Scalable backend architectures with microservices with Node.js
+- System Design
+- Blockchain technology, decentralized finance (DeFi), and smart contract security
+  
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fearalert&label=Profile%20views&color=0e75b6&style=flat" alt="fearalert" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fearalert&show_icons=true&theme=tokyonight" alt="Rohan's GitHub stats" />
+</p>
+
+---
+
+## 💡 Fun Fact
+
+When I'm not coding, I love blending creativity with technology—whether it's designing eye-catching visuals on Figma or exploring innovative ways to communicate through digital media.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to new challenges, collaborations, and conversations. If you have an idea, a project, or just want to chat, drop me a message!
+
+- [LinkedIn](https://linkedin.com/in/dhakalrohan)
+- [Gmail](mailto:dhakalrohan229@gmail.com)
+- [Medium](https://medium.com/@dhakalrohan225)
